@@ -1,9 +1,9 @@
 {
-  "name": "nauSmsWebFrontend",
-  "description": "Boilerplate using AngularJS, SASS, Gulp, and Browserify while also utilizing best practices.",
+  "name": "andreymaznyak.github.io",
+  "description": "page with andrey maznyak projects",
   "main": "",
   "authors": [
-    "Jake Marsh <jakemmarsh@gmail.com>"
+    "Andrey Maznyak <andreymaznyak@gmail.com>"
   ],
   "license": "MIT",
   "keywords": [
@@ -27,9 +27,6 @@
     "tests"
   ],
   "dependencies": {
-    "buffer": "https://github.com/feross/buffer",
-    "binary-parser": "https://github.com/Keichi/binary-parser",
-    "js-md5": "md5#~0.3.0",
     "lodash": "~3.10.1",
     "ngSanitize": "~0.0.2",
     "angular-bootstrap": "~1.0.3",
@@ -38,7 +35,6 @@
     "angular-local-storage": "~0.2.3",
     "angular-ui-tree": "~2.15.0",
     "ngContextMenu": "ngcontextmenu#^0.0.7",
-    "angular-recaptcha": "^2.5.0",
     "ng-mobile-menu": "^0.2.0",
     "angular-elastic": "^2.5.1",
     "angular-animate": "^1.5.0",
