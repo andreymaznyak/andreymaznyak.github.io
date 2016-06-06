@@ -1,0 +1,47 @@
+{
+  "name": "nauSmsWebFrontend",
+  "description": "Boilerplate using AngularJS, SASS, Gulp, and Browserify while also utilizing best practices.",
+  "main": "",
+  "authors": [
+    "Jake Marsh <jakemmarsh@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "express",
+    "gulp",
+    "browserify",
+    "angular",
+    "sass",
+    "karma",
+    "jasmine",
+    "protractor",
+    "boilerplate"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "buffer": "https://github.com/feross/buffer",
+    "binary-parser": "https://github.com/Keichi/binary-parser",
+    "js-md5": "md5#~0.3.0",
+    "lodash": "~3.10.1",
+    "ngSanitize": "~0.0.2",
+    "angular-bootstrap": "~1.0.3",
+    "angular-ui-router": "~0.2.15",
+    "angular-mocks": "~1.4.8",
+    "angular-local-storage": "~0.2.3",
+    "angular-ui-tree": "~2.15.0",
+    "ngContextMenu": "ngcontextmenu#^0.0.7",
+    "angular-recaptcha": "^2.5.0",
+    "ng-mobile-menu": "^0.2.0",
+    "angular-elastic": "^2.5.1",
+    "angular-animate": "^1.5.0",
+    "bootstrap": "^3.3.6"
+  }
+}
