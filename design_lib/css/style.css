@@ -520,17 +520,17 @@ body {
 		font-size: 20px;
 	}
 
-	.contact-row-4 .col-15 {
-		/*height: 175px;*/
-		/*overflow: hidden;*/
-		padding-top: 20px;
-		transition: all ease-in .5s;
-	}
+	/*.contact-row-4 .col-15 {*/
+		/*!*height: 175px;*!*/
+		/*!*overflow: hidden;*!*/
+		/*padding-top: 20px;*/
+		/*transition: all ease-in .5s;*/
+	/*}*/
 
-	.contact-row-4 .col-15:hover {
-		/*height: 175px;*/
-		padding-top: 0;
-	}
+	/*.contact-row-4 .col-15:hover {*/
+		/*!*height: 175px;*!*/
+		/*padding-top: 0;*/
+	/*}*/
 #slide-7 {
 	background-color: #e4e6e5;
 	color: #4e4e4e;

@@ -8,6 +8,7 @@ app.config(function onConfig(){
 
 });
 
-app.run(function onRun(){
+app.run(function onRun($rootScope){
+    'ngInject';
     console.log('angular started');
 });
