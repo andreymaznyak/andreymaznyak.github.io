@@ -1,0 +1,27 @@
+body {
+  background: url('img/background-photo.jpg') 100% 100% no-repeat; /* Добавляем фон */
+  background-size: cover; /* Масштабируем фон */
+  height: 100vh;
+}
+$base-size: 3em;
+$hovered-size: $base-size * 1.5;
+#navigation {
+  li {
+    img {
+      height: $base-size;
+      transition: height ease-out 0.2s;
+      &:hover {
+        height: $hovered-size;
+      }
+    }
+    .title {
+      display: none;
+      text-align: center;
+    }
+    &:hover {
+      .title {
+        display: block;
+      }
+    }
+  }
+}
