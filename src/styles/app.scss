@@ -9,7 +9,7 @@ $hovered-size: $base-size * 1.5;
   li {
     img {
       height: $base-size;
-      transition: height ease-out 0.2s;
+      transition: all ease-out 0.2s;
       &:hover {
         height: $hovered-size;
       }
@@ -24,4 +24,9 @@ $hovered-size: $base-size * 1.5;
       }
     }
   }
+}
+#description {
+  position: absolute;
+  top: 200px;
+  left: 50px;
 }
